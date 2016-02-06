@@ -1,0 +1,11 @@
+Server		 http://concert.itec.aau.at/SVCDataset/dataset/bluesky/I/segs/1080p/
+ChunkLen         2
+NumOfBaseQlts    3
+NumOfLayers      2
+PlayoutDelay     5
+VideoLen	 10
+0                500
+1                800
+2                1200
+1.0              380
+1.1              520
